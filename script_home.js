@@ -1,6 +1,0 @@
-let usuario = JSON.parse(localStorage.getItem("logado"));
-document.getElementById("titulo").innerHTML = "Seja bem vindo a nossa festa, "+usuario.login+"!";
-
-function deslogar (){
- window.location.href = "../index.html"
-}
