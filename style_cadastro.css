@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    align-items: center;
+    color: rgb(39, 26, 9);
+    font-family: cursive; 
+    font-weight: 200;
+    font-style: italic;
+    height: 100vh;
+    width: 95vw;
+    height: 95vh;
+    background-image: url("https://getwallpapers.com/wallpaper/full/6/a/9/1353814-beautiful-funny-minion-wallpapers-1920x1200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+  }
+  
+  h1{
+    font-size: 50px;
+    padding: auto 0;
+    font-style: unset;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  input{margin: 2px;
+  background-color: rgba(230, 201, 42, 0.397);
+  color: rgb(0, 0, 0);
+  border-radius: 15px;
+  font-weight: 300;
+  height: 16px;
+  text-align: center;
+  }  
+  .banana{
+    font-weight: 300;
+  }
+  .minions{
+    border:solid;
+    width: 290px;
+    height: min-content;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgba(255, 238, 0, 0.137);
+    border-radius: 10px;
+  }
+  
+  .papaya{
+    border:solid;
+    width: 290px;
+    height: min-content;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgba(255, 238, 0, 0.137);
+    border-radius: 10px;
+  }
+  button{
+   background-color: rgb(245, 230, 149);
+   border-radius: 15px;
+   height: 24px;
+
+  }
